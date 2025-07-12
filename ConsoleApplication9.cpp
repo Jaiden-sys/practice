@@ -1,4 +1,5 @@
-﻿#include <iostream>
+//Самое длинное слово
+#include <iostream>
 #include <vector>
 #include <fstream>
 #include <string>
